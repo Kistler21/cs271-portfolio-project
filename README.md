@@ -1,8 +1,5 @@
 # CS 271 Computer Architecture and Assembly Language
 ## Programming Assignment #6
-### Objectives:
-1) Designing, implementing, and calling low-level I/O procedures
-2) Implementing and using a macro
 ### Problem Definition:
 - Implement and test your own ReadVal and WriteVal procedures for signed integers.
 - Implement macros getString and displayString. The macros may use Irvine’s ReadString to get input from the user, and WriteString to display output.
